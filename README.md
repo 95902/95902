@@ -1,7 +1,8 @@
-
-
+```python
+print("Ceci est un bloc de code avec un fond sombre en mode sombre GitHub.")
+```
 <div style="background-color: black; color: white; padding: 10px;">
-This is a Markdown block with a black background.
+Ceci est un texte avec un fond noir.
 </div>
 
 

@@ -1,4 +1,10 @@
+
+![Drag Racing]![giphy (2)](https://github.com/user-attachments/assets/7dd1d475-bc8b-4791-837c-f1a3fff31d2a)
+
+
 👋 Hello, I'm Marcel Bragance !
+
+
 
 💻 Full-Stack Web Developer | DevOps Enthusiast | AI & Automation
 

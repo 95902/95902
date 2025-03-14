@@ -1,7 +1,7 @@
 
-![Drag Racing]![giphy (2)](https://github.com/user-attachments/assets/7dd1d475-bc8b-4791-837c-f1a3fff31d2a)
+![Drag Racing]![giphy (2)](https://github.com/user-attachments/assets/7dd1d475-bc8b-4791-837c-f1a3fff31d2a =300x200)
 
-<img src="[image.png](https://github.com/user-attachments/assets/7dd1d475-bc8b-4791-837c-f1a3fff31d2a)" width="200" height="100">
+
 
 👋 Hello, I'm Marcel Bragance !
 

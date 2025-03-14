@@ -1,9 +1,7 @@
 ```python
-print("Ceci est un bloc de code avec un fond sombre en mode sombre GitHub.")
+
 ```
-<div style="background-color: black; color: white; padding: 10px;">
-Ceci est un texte avec un fond noir.
-</div>
+
 
 
 👋 Hello, I'm Marcel Bragance !

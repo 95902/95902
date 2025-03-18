@@ -113,8 +113,8 @@
 
 ##  Mes statistiques :
 <p align="left">
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=95902" alt="GitHub Streak" />
-
+<!--   <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=95902&locale=fr" alt="GitHub Streak" />
+ -->
 <a href="https://github.com/95902">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=95902&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95902&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
